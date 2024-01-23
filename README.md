@@ -3,7 +3,7 @@
 
 # <i> Server-Client </i>
 
-<img src="https://github.com/zankye13/Basic-Terminal-Messaging-with-Socket/assets/147637348/ec303568-e406-4348-9eab-22a9b876ffff" alt="images"  width="500" height="300">
+<img src="https://github.com/zankye13/Basic-Terminal-Messaging-with-Socket/assets/147637348/ec303568-e406-4348-9eab-22a9b876ffff" alt="images"  width="2440" height="988">
 
 
 The client-side (or simply, client) is the application that runs on the end-user computer; it provides a user-interface (UI) that handles what the application feels and looks like and how it interacts with end-user. It may employ and consume resources on the user's machine (computing device) such as temporary and local storage, etc.
